@@ -239,6 +239,10 @@
 	"IP Address / Hostname": "",
 	"Dashboard IP Address \\& Listen Port": "",
 	"Count": "",
+	"Hop": "",
+	"Average RTT (ms)": "",
+	"Min RTT (ms)": "",
+	"Max RTT (ms)": "",
 	"Geolocation": "",
 	"Is Alive": "",
 	"Average / Min / Max Round Trip Time": "",
@@ -357,5 +361,8 @@
 	"Storage": "",
 	"([0-9]{1,}) Partitions": "",
 	"(.*) Used": "",
-	"Untitled Peer": ""
+	"Untitled Peer": "",
+	"You can visit our: ": "",
+	"Official Documentation": "",
+	"Discord Server": ""
 }

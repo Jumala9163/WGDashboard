@@ -200,7 +200,7 @@ export default {
 							</div>
 							<div class="card rounded-3 bg-transparent shadow-sm animate__animated animate__fadeIn" style="animation-delay: 0.3s">
 								<div class="card-body">
-									<p class="mb-0 text-muted"><small>Is Alive</small></p>
+									<p class="mb-0 text-muted"><small><LocaleText t="Is Alive"></LocaleText></small></p>
 									<span :class="[this.pingResult.is_alive ? 'text-success':'text-danger']">
 												<i class="bi me-1"
 												   :class="[this.pingResult.is_alive ? 'bi-check-circle-fill' : 'bi-x-circle-fill']"></i>
