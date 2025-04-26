@@ -255,6 +255,9 @@
 	"Selected Backup": "",
 	"You don't have any configuration to restore": "",
 	"Help": "",
+	"You can visit our: ": "",
+	"Official Documentation": "",
+	"Discord Server": "",
 	"Backup": "",
 	"([0-9].*) Backups?": "",
 	"Yes": "",
@@ -361,8 +364,5 @@
 	"Storage": "",
 	"([0-9]{1,}) Partitions": "",
 	"(.*) Used": "",
-	"Untitled Peer": "",
-	"You can visit our: ": "",
-	"Official Documentation": "",
-	"Discord Server": ""
+	"Untitled Peer": ""
 }

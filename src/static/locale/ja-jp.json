@@ -255,6 +255,9 @@
 	"Selected Backup": "選択したバックアップ",
 	"You don't have any configuration to restore": "復元可能な構成がありません",
 	"Help": "ヘルプ",
+	"You can visit our: ": "次の場所でサポートや様々な情報を入手出来ます:",
+	"Official Documentation": "公式ドキュメント",
+	"Discord Server": "Discordサーバー",
 	"Backup": "バックアップ",
 	"([0-9].*) Backups?": "$1 バックアップ?",
 	"Yes": "はい",
@@ -361,8 +364,5 @@
 	"Storage": "ストレージ",
 	"([0-9]{1,}) Partitions": "$1 個のパーティション",
 	"(.*) Used": "$1 使用中",
-	"Untitled Peer": "無名のピア",
-	"You can visit our: ": "次の場所でサポートや様々な情報を入手出来ます:",
-	"Official Documentation": "公式ドキュメント",
-	"Discord Server": "Discordサーバー"
+	"Untitled Peer": "無名のピア"
 }
